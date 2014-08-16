@@ -1,4 +1,7 @@
-dm-exercises
+Neo4J Data Modeling Exercises
 ============
 
-Data Modeling Exercises
+As required for your Data Modeling course today!
+
+
+
